@@ -1,26 +1,48 @@
 # Starting compiling UnityEngine.TestRunner.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-146f5819d8c22481494fc495aba606a2
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5d4019a77e0174f7eab53be98f0dccd6
 # Starting compiling UnityEngine.UI.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5f5ac7316c65d47988e5da22796c379f
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1eb015afed9864d818a15be2932c430e
 # Starting compiling UnityEditor.TestRunner.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1bb50f8999fdf4e0bb41814f8d413947
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0311ce7ccaa6d4b3fb969cac32d697b9
 # Starting compiling UnityEditor.UI.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-4db39e19b23c243f5ae824917182a25b
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-ad7d3fd362f42471d998185766edff28
 # Starting compiling Unity.VSCode.Editor.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8542261d7c1eb4c02a10e52e33d070c3
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2037bbaacbe0f47cb889ce4371ac219e
 # Starting compiling Unity.VisualStudio.Editor.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0741297e895f54b1d806604a3315aebd
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-6df03f178f87043a38ce77abb7887bb8
 # Starting compiling Unity.Timeline.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b33370e4b26e3474fa264e408644450f
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3b448ed7b5e6149bfb75bb64e9fc5dad
 # Starting compiling Unity.TextMeshPro.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-16056cf8262394f91a0491cf05126d9b
-# Starting compiling Unity.CollabProxy.Editor.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-bf25afbc15ddb4cc18e5277b863ec47a
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-02c86586253f14b998358f0d2e870e4e
 # Starting compiling Unity.PlasticSCM.Editor.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-b9b2d3f7ea062449e91fe537c5b7937a
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-7242ff9fe5c884228b73f940e5a8a255
 # Starting compiling Unity.Rider.Editor.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-271c41e38a7b848a8950a76cdfb7c889
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-64935457aaab14c618e9e88d6c25b586
+# Starting compiling Unity.Settings.Editor.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-106e3c50380f148d4b8712bd936ceb7f
+# Starting compiling Unity.ProBuilder.Poly2Tri.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0d8241acd73064bc6b1f224e2211b9a4
+# Starting compiling Unity.ProBuilder.KdTree.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5578138ecece74a3c9fc3a2d0ef483f6
+# Starting compiling Unity.ProBuilder.Stl.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-178ea44606e9e48b5af62ccd94d14f25
+# Starting compiling Unity.CollabProxy.Editor.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2673bafb0d44b476bbca9841d28372e7
+# Starting compiling Unity.ProBuilder.Csg.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-5d0e33d7e3f0c4118b1001f20c682992
 # Starting compiling Unity.Timeline.Editor.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-99768dd7d353f4bb19fed5e871abc674
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-3efe7f0f548d2478495c89c2acd0c3bd
+# Starting compiling Unity.ProBuilder.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-8312c18b918d841529eef5fa98734496
+# Starting compiling Unity.ProBuilder.AssetIdRemapUtility.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-2ec4747ceb8e745f5a525ea92fec24cc
+# Starting compiling Unity.ProGrids.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-35a104eb443a34afebd82c54c496b862
 # Starting compiling Unity.TextMeshPro.Editor.dll
-/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-9bfecf077bee946a6841dc5c3d4019e3
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-1400c4325101f4a31b6fb2c413d563a3
+# Starting compiling Unity.ProGrids.Editor.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-280c3c485baec4ba38b1e048021f3b5c
+# Starting compiling Unity.ProBuilder.Editor.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-0492bf599e7974086b193a98a2e8c8ca
+# Starting compiling Unity.ProBuilder.AddOns.Editor.dll
+/Users/gavinprice/Desktop/Game Production 1/Unity/2020.3.17f1/Unity.app/Contents/Tools/RoslynScripts/unity_csc.sh /noconfig @Temp/UnityTempFile-c9dddee938064479b8cb5f1a7392c6af
